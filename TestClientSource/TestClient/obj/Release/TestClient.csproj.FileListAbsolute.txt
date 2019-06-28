@@ -1,0 +1,10 @@
+C:\Users\Osawa\Source\Repos\YumeRoomBookService\TestClient\bin\Release\TestClient.exe.config
+C:\Users\Osawa\Source\Repos\YumeRoomBookService\TestClient\bin\Release\TestClient.exe
+C:\Users\Osawa\Source\Repos\YumeRoomBookService\TestClient\bin\Release\TestClient.pdb
+C:\Users\Osawa\Source\Repos\YumeRoomBookService\TestClient\obj\Release\TestClient.csprojAssemblyReference.cache
+C:\Users\Osawa\Source\Repos\YumeRoomBookService\TestClient\obj\Release\TestClient.Form1.resources
+C:\Users\Osawa\Source\Repos\YumeRoomBookService\TestClient\obj\Release\TestClient.Properties.Resources.resources
+C:\Users\Osawa\Source\Repos\YumeRoomBookService\TestClient\obj\Release\TestClient.csproj.GenerateResource.cache
+C:\Users\Osawa\Source\Repos\YumeRoomBookService\TestClient\obj\Release\TestClient.csproj.CoreCompileInputs.cache
+C:\Users\Osawa\Source\Repos\YumeRoomBookService\TestClient\obj\Release\TestClient.exe
+C:\Users\Osawa\Source\Repos\YumeRoomBookService\TestClient\obj\Release\TestClient.pdb
